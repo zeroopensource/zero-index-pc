@@ -1,0 +1,84 @@
+{
+  "data": [
+    {
+      "zeroId": "zero-20260501-000019-00001a-00001b-00001c",
+      "name": "AYANEO 2S",
+      "tags": ["handheld-pc", "gaming-pc", "windows", "ayaneo", "2023"]
+    },
+    {
+      "zeroId": "zero-20260501-00001d-00001e-00001f-000020",
+      "name": "AYANEO KUN",
+      "tags": ["handheld-pc", "gaming-pc", "windows", "ayaneo", "2023"]
+    },
+    {
+      "zeroId": "zero-20260501-000031-000032-000033-000034",
+      "name": "Clevo X370SNW-G",
+      "tags": ["17-inch", "gaming-laptop", "laptop", "clevo", "2023"]
+    },
+    {
+      "zeroId": "zero-20260501-00003d-00003e-00003f-000040",
+      "name": "Corsair Vengeance i7500",
+      "tags": ["desktop", "gaming-pc", "corsair", "2023"]
+    },
+    {
+      "zeroId": "zero-20260501-000061-000062-000063-000064",
+      "name": "EUROCOM Raptor X17",
+      "tags": ["17-inch", "laptop", "workstation", "eurocom", "2023"]
+    },
+    {
+      "zeroId": "zero-20260501-000071-000072-000073-000074",
+      "name": "Framework Laptop 13",
+      "tags": ["13-inch", "laptop", "repairable", "framework", "2023"]
+    },
+    {
+      "zeroId": "zero-20260501-000075-000076-000077-000078",
+      "name": "Framework Laptop 16",
+      "tags": ["16-inch", "laptop", "repairable", "framework", "2023"]
+    },
+    {
+      "zeroId": "zero-20260501-000085-000086-000087-000088",
+      "name": "GEEKOM Mini IT13",
+      "tags": ["desktop", "mini-pc", "geekom", "2023"]
+    },
+    {
+      "zeroId": "zero-20260501-000099-00009a-00009b-00009c",
+      "name": "GPD WIN 4",
+      "tags": ["handheld-pc", "gaming-pc", "windows", "gpd", "2023"]
+    },
+    {
+      "zeroId": "zero-20260501-0000b1-0000b2-0000b3-0000b4",
+      "name": "iBUYPOWER Y40",
+      "tags": ["desktop", "gaming-pc", "ibuypower", "2023"]
+    },
+    {
+      "zeroId": "zero-20260501-0000b9-0000ba-0000bb-0000bc",
+      "name": "Intel NUC 13 Pro",
+      "tags": ["desktop", "mini-pc", "intel", "2023"]
+    },
+    {
+      "zeroId": "zero-20260501-0000bd-0000be-0000bf-0000c0",
+      "name": "Intel NUC 12 Enthusiast",
+      "tags": ["desktop", "gaming-pc", "mini-pc", "intel", "2023"]
+    },
+    {
+      "zeroId": "zero-20260501-0000f1-0000f2-0000f3-0000f4",
+      "name": "ONEXPLAYER 2 Pro",
+      "tags": ["handheld-pc", "gaming-pc", "windows", "one-netbook", "2023"]
+    },
+    {
+      "zeroId": "zero-20260501-0000f5-0000f6-0000f7-0000f8",
+      "name": "One-Netbook OneXFly",
+      "tags": ["handheld-pc", "gaming-pc", "windows", "one-netbook", "2023"]
+    },
+    {
+      "zeroId": "zero-20260501-000155-000156-000157-000158",
+      "name": "VAIO FE14",
+      "tags": ["14-inch", "laptop", "windows", "vaio", "2023"]
+    },
+    {
+      "zeroId": "zero-20260501-00015d-00015e-00015f-000160",
+      "name": "RedmiBook Pro 15",
+      "tags": ["15-inch", "laptop", "windows", "xiaomi", "2023"]
+    }
+  ]
+}

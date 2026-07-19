@@ -1,0 +1,29 @@
+{
+  "data": [
+    {
+      "zeroId": "zero-20260501-000001-000002-000003-000004",
+      "name": "Alienware 16 Aurora",
+      "tags": ["16-inch", "gaming-laptop", "laptop", "alienware", "2025"]
+    },
+    {
+      "zeroId": "zero-20260501-000005-000006-000007-000008",
+      "name": "Alienware Area-51 Laptop",
+      "tags": ["gaming-laptop", "laptop", "alienware", "2025"]
+    },
+    {
+      "zeroId": "zero-20260501-000059-00005a-00005b-00005c",
+      "name": "Dynabook Portégé X40L-M",
+      "tags": ["14-inch", "business-laptop", "laptop", "dynabook", "2025"]
+    },
+    {
+      "zeroId": "zero-20260501-00005d-00005e-00005f-000060",
+      "name": "Dynabook Tecra A40-M",
+      "tags": ["14-inch", "business-laptop", "laptop", "dynabook", "2025"]
+    },
+    {
+      "zeroId": "zero-20260501-00009d-00009e-00009f-0000a0",
+      "name": "GPD Pocket 4",
+      "tags": ["laptop", "mini-laptop", "windows", "gpd", "2025"]
+    }
+  ]
+}

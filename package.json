@@ -1,0 +1,27 @@
+{
+  "_name": "zero-index-pc",
+  "workspaces": [
+    "apps/*",
+    "packages/*"
+  ],
+  "scripts": {
+    "check": "biome check --write .",
+    "typecheck": "turbo typecheck",
+    "dev": "turbo dev",
+    "build": "turbo build",
+    "start": "turbo start",
+    "check-types": "turbo check-types",
+    "dev:native": "turbo -F native dev",
+    "dev:web": "turbo -F web dev",
+    "dev:server": "turbo -F server dev"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "turbo": "^2.5.4",
+    "@biomejs/biome": "2.4.2",
+    "ultracite": "7.2.3",
+    "vite": "^5.4.2",
+    "@zeroopensource/zero-cli": "latest"
+  },
+  "packageManager": "pnpm@10.33.2"
+}
